@@ -1,4 +1,7 @@
 # CV-game
+Сontrol: 
+-  w a s d to move
+- MB2 to shoot
 to upgrade lvl press 1, 2 or 3
 1 - speed
 2 - jumping
